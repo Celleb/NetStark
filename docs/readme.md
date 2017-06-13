@@ -4,7 +4,7 @@ You can use NetStark to find mobile base stations across the country as well.
 
 # Installing NetStark
 ## Android
-`Download and install the app from http://mrcelleb.com/NetStarkV2.apk` [NetStark](http://mrcelleb.com/NetStarkV2.apk)
+`Download and install the app from http://mrcelleb.com/app/NetStarkV2.apk` [NetStark](http://mrcelleb.com/app/NetStarkV2.apk)
 
 ## iOS
 There is no installable app available for iOS yet. However, the app can be accessed on iOS devices using [Ionic View](https://view.ionic.io).
