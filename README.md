@@ -3,4 +3,4 @@ This is a channel to track issues for the Mobile Network Coverage Application Ne
 
 [Android](http://mrcelleb.com/app/NetStarkV2.apk)
 
-[Guide] (http://celleb.github.io/NetStark)
+[Guide](https://celleb.github.io/NetStark)
