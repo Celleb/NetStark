@@ -1,7 +1,3 @@
-# ![](http://mrcelleb.com/img/netstark/favicon.ico) NetStark
-NetStark is a mobile application for testing and comparing broadband internet performance based on locations. The data is crowdsourced from NetStark users. 
-You can use NetStark to find mobile base stations across the country as well.
-
 # Installing NetStark
 ## Android
 `Download and install the app from http://mrcelleb.com/app/NetStarkV2.apk` [NetStark](http://mrcelleb.com/app/NetStarkV2.apk)
